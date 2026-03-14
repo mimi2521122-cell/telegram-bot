@@ -1,0 +1,13 @@
+{
+  "name": "kiki-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram Auto Betting Bot",
+  "main": "kikibot.js",
+  "scripts": {
+    "start": "node kikibot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
